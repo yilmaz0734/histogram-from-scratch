@@ -1,4 +1,10 @@
-# FILEPATH: main.py
+# HISTOGRAM TYPES AND IMPLEMENTATIONS
+
+This repository includes the 3D, per-channel, grid based and non-grid based, RGB, and HSV based histogram implementations coded using only numpy functions, from scratch. A histogram provides information about the intensity or color distribution in an image or signal. The spatial meaning of RGB color histograms is related to the distribution of intensity values in individual color channels R,G and B, while the spatial meaning of HSV color histograms is related to perceptual attributes such as hue, saturation and value. 
+
+METU - CENG483 (Introduction to Computer Vision) Course Take Home Exam - 1 Work
+
+FILEPATH: main.py
 
 """
 This script is used for making experiments with the different configurations given in THE1.
